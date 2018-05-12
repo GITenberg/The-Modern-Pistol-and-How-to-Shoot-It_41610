@@ -1,0 +1,27 @@
+_repo: The-Modern-Pistol-and-How-to-Shoot-It_41610
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41610-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Winans, Walter
+    birthdate: 1852
+    deathdate: 1920
+    gutenberg_agent_id: '41119'
+    url: http://www.gutenberg.org/2009/agents/41119
+description: ''
+gutenberg_issued: '2012-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41610'
+  lccn: '19009112'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GV'
+- !lcsh 'Pistols'
+title: The Modern Pistol and How to Shoot It
+url: http://www.gutenberg.org/ebooks/41610
